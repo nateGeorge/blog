@@ -6,9 +6,9 @@ tags:
   - cannabis
   - exercise
 header:
-  overlay_image: "images/workout.png"
-  image: "images/workout.png"
-  teaser: "images/workout.png"
+  overlay_image: "/images/workout.png"
+  image: "/images/workout.png"
+  teaser: "/images/workout.png"
   overlay_filter: 0.5
   show_overlay_excerpt: false
   caption: "From Unsplash"
