@@ -14,9 +14,9 @@ header:
   caption: "From Unsplash"
 ---
 
-*This is a guest post from Leslie Campos, [you can reach out to her](https://wellparents.com/contact-us/) with any questions on the article.*
-
 As cannabis products grow in popularity and variety, there is increasing interest in using them in conjunction with an exercise program. As with any new topic, there are pros and cons involved with the concept. We’ve sorted out key aspects of each side of the conundrum to help you with your decision. Dr. G invites you to keep reading to learn more.
+
+*This is a guest post from Leslie Campos, [you can reach out to her](https://wellparents.com/contact-us/) with any questions on the article.*
 
 ## First Things First
 
